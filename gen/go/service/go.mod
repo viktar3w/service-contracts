@@ -1,4 +1,4 @@
-module github.com/viktar/service-contracts/gen/go/service
+module github.com/viktar3w/service-contracts/gen/go/service
 
 go 1.19
 
