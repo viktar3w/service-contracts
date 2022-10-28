@@ -3,6 +3,7 @@ module github.com/viktar3w/service-contracts/gen/go/service
 go 1.19
 
 require (
+	github.com/viktar3w/service-contracts/gen/go/common v0.0.0-20221027181526-3070ee1cc00b
 	google.golang.org/grpc v1.50.1
 	google.golang.org/protobuf v1.28.1
 )
